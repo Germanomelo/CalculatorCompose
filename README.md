@@ -4,9 +4,13 @@
 [![API](https://img.shields.io/badge/API-33%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=33)
 
 ## Description
-Calculadora com as quatro operações básicas: Soma; Subtração; Multiplicação; Divisão; AC(Limpar); Del(Apagar ultimo digito). Utilizando ViewModel(MVVM) e Jetpack Compose.
+Calculadora com as quatro operações básicas: Soma; Subtração; Multiplicação; Divisão; AC(Limpar); Del(Apagar ultimo digito). 
+Utilizando ViewModel(MVVM) e Jetpack Compose.
 
+## About Me
 
+ - Email: germanomelo@gmail.com
+ - Linkedin: [https://www.linkedin.com/in/germanomelo/](https://www.linkedin.com/in/germanomelo/)
 
 
 
