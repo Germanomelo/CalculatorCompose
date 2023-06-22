@@ -13,7 +13,7 @@ import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
 import com.gmsp.composecalculator.view.components.Calculator
 import com.gmsp.composecalculator.ui.theme.ComposeCalculatorTheme
-import com.gmsp.composecalculator.ui.theme.MediumGray
+import com.gmsp.composecalculator.ui.theme.Background
 import com.gmsp.composecalculator.viewmodel.CalculatorViewModel
 
 class MainActivity : ComponentActivity() {
@@ -38,7 +38,7 @@ fun startCalculator() {
         buttonSpacing = buttonSpacing,
         modifier = Modifier
             .fillMaxSize()
-            .background(MediumGray)
+            .background(Background)
             .padding(16.dp)
     )
 }
